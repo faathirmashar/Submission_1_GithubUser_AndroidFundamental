@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="item_username">Username : %1$s</string>
+    <string name="item_id">Id : %1$d</string>
+    <string name="item_type">Type : %1$s</string>
+    <string name="github_user">Github User</string>
+    <string name="search">Search …</string>
+    <string name="button_search">Button Search</string>
+    <string name="title_search">Search</string>
+    <string name="avatar_image">Avatar Image</string>
+
+    <string name="followers">Followers : %1$d</string>
+    <string name="following">following : %1$d</string>
+    <string name="company">Company : %1$s</string>
+    <string name="location">Location : %1$s</string>
+    <string name="repository">Repository : %1$d</string>
+    <string name="icon_github">Icon Github</string>
+    <string name="button_close">Button Close</string>
+</resources>
